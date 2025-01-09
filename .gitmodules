@@ -10,3 +10,6 @@
 [submodule "content/xwexi"]
 	path = content/xwexi
 	url = https://github.com/Globasa-Team/xwexi-pages-zola.git
+[submodule "content/site"]
+	path = content/site
+	url = https://github.com/Globasa-Team/globasa-pages-zola.git
