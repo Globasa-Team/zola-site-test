@@ -4,9 +4,6 @@
 [submodule "themes/zola-pulladidoks-theme"]
 	path = themes/zola-pulladidoks-theme
 	url = https://github.com/ShawnPConroy/zola-pulladidoks-theme.git
-[submodule "content/main"]
-	path = content/main
-	url = https://github.com/Globasa-Team/zola-site-test.git
 [submodule "content/doxo"]
 	path = content/doxo
 	url = https://github.com/Globasa-Team/doxo-pages-zola.git
