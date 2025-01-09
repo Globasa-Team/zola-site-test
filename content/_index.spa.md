@@ -1,5 +1,5 @@
 +++
-title="Jaribi GLB/Default"
+title="Jaribi SPA"
 template="docs/section.html"
 +++
 Test
