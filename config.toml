@@ -9,7 +9,7 @@ description = ""
 default_language = "en"
 
 # The site theme to use.
-theme = ""
+theme = "zola-uncouth-theme"
 
 # For overriding the default output directory `public`, set it to another value (e.g.: "docs")
 output_dir = "public"
@@ -56,7 +56,7 @@ feed_filenames = ["atom.xml"]
 hard_link_static = false
 
 # The default author for pages
-author = 
+author = ""
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
 # Example:
