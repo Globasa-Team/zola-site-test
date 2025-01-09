@@ -1,3 +1,15 @@
 [submodule "themes/zola-uncouth-theme"]
 	path = themes/zola-uncouth-theme
 	url = https://github.com/ShawnPConroy/zola-uncouth-theme.git
+[submodule "themes/zola-pulladidoks-theme"]
+	path = themes/zola-pulladidoks-theme
+	url = https://github.com/ShawnPConroy/zola-pulladidoks-theme.git
+[submodule "content/main"]
+	path = content/main
+	url = https://github.com/Globasa-Team/zola-site-test.git
+[submodule "content/doxo"]
+	path = content/doxo
+	url = https://github.com/Globasa-Team/doxo-pages-zola.git
+[submodule "content/xwexi"]
+	path = content/xwexi
+	url = https://github.com/Globasa-Team/xwexi-pages-zola.git
