@@ -1,5 +1,10 @@
 +++
 title="Jaribi GLB/Default"
-template="docs/section.html"
+sort_by = "slug"
+weight = 10
+template = "docs/section.html"
+page_template = "docs/page.html"
 +++
 Test
+
+To read this website, you must go to [English](/eng/).
